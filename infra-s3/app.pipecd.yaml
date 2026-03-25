@@ -1,0 +1,10 @@
+apiVersion: pipecd.dev/v1beta1
+kind: TerraformApp
+spec:
+  name: aws-s3-demo
+  input:
+    terraformVersion: 1.5.7
+  pipeline:
+    stages:
+      - name: TERRAFORM_PLAN
+      - name: TERRAFORM_APPLY
