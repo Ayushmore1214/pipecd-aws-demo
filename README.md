@@ -48,6 +48,7 @@ sed -e 's/<YOUR_PIPED_ID>/YOUR_ID_HERE/g' \
 -e 's/<YOUR_PIPED_KEY_DATA>/YOUR_BASE64_KEY_HERE/g' | \
 kubectl apply -n pipecd -f -
 ```
+After this check ui for the red dot to turn green 
 
 ### 5. Add Terraform & AWS Keys
 Apply the configuration to enable Terraform and inject your AWS credentials:
