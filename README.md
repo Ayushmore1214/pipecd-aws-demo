@@ -7,6 +7,7 @@ This project demonstrates how to use **PipeCD** to manage AWS infrastructure (S3
 * [kubectl](https://kubernetes.io/docs/tasks/tools/)
 * [Kind](https://kind.sigs.k8s.io/docs/user/quick-start/)
 * AWS Account & IAM User Keys
+* Terraform
 
 ---
 
@@ -104,8 +105,13 @@ got to apllication click add and then click manually
   * wait 2-3 mins checl logs and boom you deplyed a s3 bucket on aws through pipecd
   * Checl aws console 
 
----
+  ### Cleanup
+  * go into the aws console and delete the s3 bucket we created
+  * Kill the Kubernetes Cluster
+This will wipe out the PipeCD Control Plane, the Piped Agent, and all the configurations we spent today fixing. It’s a total reset:
 
+Bash
+kind delete cluster --name pipecd-demo
 ---
 
 **Would you like me to add a "Troubleshooting" section to the README based on the 'Space Bug' and 'Vim errors' we fixed today?**
