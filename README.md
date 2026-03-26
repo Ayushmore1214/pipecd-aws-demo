@@ -101,12 +101,10 @@ got to apllication click add and then click manually
 
   ### Check logs and s3 buect in aws
   * click on the application then aws-s3-demo
-  * 
+  * wait 2-3 mins checl logs and boom you deplyed a s3 bucket on aws through pipecd
+  * Checl aws console 
 
 ---
-
-### 🏗 Architecture Diagram
-
 
 ---
 
