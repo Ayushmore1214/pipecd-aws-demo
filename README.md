@@ -90,10 +90,18 @@ kubectl rollout restart deployment piped -n pipecd
 ```
 
 ### 6. Register Application in UI
+got to apllication click add and then click manually
 * **Kind:** `TERRAFORM`
 * **Platform Provider:** `aws-terraform`
 * **Repository:** `aws-demo-repo`
 * **Path:** `infra-s3`
+* piped : slect what it comes
+* config file : app.pipecd.yaml
+* click save
+
+  ### Check logs and s3 buect in aws
+  * click on the application then aws-s3-demo
+  * 
 
 ---
 
