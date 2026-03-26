@@ -120,11 +120,12 @@ If you see `Apply complete!`, go check your AWS Console. An S3 bucket just appea
 ### 🧹 The Clean-Up (Don't get billed\!)
 
 1.  **Delete the Bucket:** Go to AWS Console and delete the bucket `pipecd-gitops-demo-ayush-001`.
-2.  **Kill the Cluster:** \`\`\`bash
+2.  **Kill the Cluster:**
+    ```bash
     kind delete cluster --name pipecd-demo
     ```
     
-    ```
+   
 
 
 -----
