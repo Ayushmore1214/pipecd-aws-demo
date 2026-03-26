@@ -1,10 +1,11 @@
 #  PipeCD + Terraform AWS GitOps
 
-> *"I’m 17, and I’m too lazy to manually click buttons in the AWS Console. So I built this."*   — Ayush
 <p align="center">
   <img src="https://github.com/pipe-cd/pipecd/blob/master/docs/static/images/logo.png" width="180"/>
 </p>
 Welcome to the ultimate GitOps flex. This project shows you how to automate AWS infrastructure (S3) using **PipeCD** running inside a local **Kind** cluster. No more "It worked on my machine." Now, it only works in Git.
+
+> *"I’m 17, and I’m too lazy to manually click buttons in the AWS Console. So I built this."*   — Ayush
 
 -----
 
