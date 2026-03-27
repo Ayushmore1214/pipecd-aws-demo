@@ -133,8 +133,5 @@ If you see `Apply complete!`, go check your AWS Console. An S3 bucket just appea
 
 -----
 
-**Made with ❤️ by Ayush More.** If this helped you, give it a ⭐ and find me on [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/ayush-more/)\!
+**Made with ❤️ by Ayush More.** If this helped you, give it a ⭐ and find me on [LinkedIn]([https://www.google.com/search?q=https://www.linkedin.com/in/ayush-more/](https://www.linkedin.com/in/ayush-more-3b4154341/))!
 
------
-
-**Does this look like something you'd be proud to show the maintainers?** I can help you generate a cool architecture diagram image to put under the "Architecture" section if you'd like\!
