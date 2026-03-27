@@ -118,6 +118,13 @@ In the UI: **Applications \> + ADD \> ADD MANUALLY**.
 Click **SYNC**. Go to the **Deployments** tab. Watch the terminal logs stream in.
 If you see `Apply complete!`, go check your AWS Console. An S3 bucket just appeared out of thin air.
 
+<p align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXc1MzdycmZucHlwNmpjd2RpMW50eTdsajN4c2F5Y3luZnFmZzBsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otPoS81loriI9sO8o/giphy.gif" width="450"/>
+
+
+<b>You did it!!!!!</b>
+</p>
+
 -----
 
 ### 🧹 The Clean-Up (Don't get billed\!)
@@ -129,7 +136,6 @@ If you see `Apply complete!`, go check your AWS Console. An S3 bucket just appea
     ```
     
    
-
 
 -----
 
