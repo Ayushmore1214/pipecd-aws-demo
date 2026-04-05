@@ -140,6 +140,8 @@ If you see `Apply complete!`, go check your AWS Console. An S3 bucket just appea
    
 
 -----
+If you want to understand what is happening behind the scenes — how PipeCD, Terraform, and Kubernetes work together in this setup — a detailed explanation is available here: https://heyyayush.hashnode.dev/your-first-gitops-project-with-pipecd
 
 **Made with ❤️ by Ayush More.** If this helped you, give it a ⭐ and find me on [LinkedIn](https://www.linkedin.com/in/ayush-more-3b4154341/)
+If you found this project useful, this is a good starting point to explore PipeCD.
 
