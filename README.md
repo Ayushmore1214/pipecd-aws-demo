@@ -7,7 +7,7 @@ Welcome to the ultimate GitOps flex. This project shows you how to automate AWS 
 
 ![Architecture Diagram](./infra-s3/pipecdarchdg.png)
 
-> *"I’m 17, and I’m too lazy to manually click buttons in the AWS Console. So I built this."*   — Ayush
+> *I’m 17, and I’m too lazy to manually click buttons in the AWS Console. So I built this.*   — Ayush
 
 -----
 
