@@ -139,5 +139,5 @@ If you see `Apply complete!`, go check your AWS Console. An S3 bucket just appea
 
 -----
 
-**Made with ❤️ by Ayush More.** If this helped you, give it a ⭐ and find me on [LinkedIn]([https://www.google.com/search?q=https://www.linkedin.com/in/ayush-more/](https://www.linkedin.com/in/ayush-more-3b4154341/))!
+**Made with ❤️ by Ayush More.** If this helped you, give it a ⭐ and find me on [LinkedIn](https://www.linkedin.com/in/ayush-more-3b4154341/)
 
