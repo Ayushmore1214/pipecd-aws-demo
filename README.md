@@ -1,4 +1,4 @@
-#  PipeCD + Terraform AWS GitOps
+#  Your First GitOps Project with PipeCD
 
 <p align="center">
   <img src="https://github.com/pipe-cd/pipecd/blob/master/docs/static/images/logo.png" width="180"/>
